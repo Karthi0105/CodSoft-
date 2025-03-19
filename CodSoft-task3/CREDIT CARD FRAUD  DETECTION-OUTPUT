@@ -1,0 +1,11 @@
+Logistic Regression Accuracy: 0.953
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       1.00      0.95      0.98      1991
+           1       0.06      0.67      0.11         9
+
+    accuracy                           0.95      2000
+   macro avg       0.53      0.81      0.54      2000
+weighted avg       0.99      0.95      0.97      2000
